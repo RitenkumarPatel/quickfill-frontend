@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 10px 10px 10px;
+    height: 175px;
+    width: 300px;
+}
+
+.vertical {
+    text-align: center;
+}
+
+.horizontal {
+    display: inline-grid;
+    gap: 5px;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+}

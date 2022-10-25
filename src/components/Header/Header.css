@@ -1,0 +1,23 @@
+.logo {
+    width: 60px;
+}
+
+h1 {
+    font-size: 0;
+    margin: auto;
+    font-family: Helvetica, Verdana, Arial, serif;
+    padding: 10px;
+}
+
+h1:before {
+    content: 'Quick';
+    color: rgb(20, 182, 231);
+    font-size: 32px;
+    font-weight: 540;
+}
+
+h1:after {
+    content: 'Fill';
+    color: #000000;
+    font-size: 32px;
+}
